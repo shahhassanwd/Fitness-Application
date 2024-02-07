@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/shahhassanwd.github.io/Fitness-Application",
+  "homepage": "https://shahhassanwd.github.io/Fitness-Application",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
